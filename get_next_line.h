@@ -6,14 +6,13 @@
 /*   By: janeway <janeway@student.codam.nl>           +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2021/07/04 11:41:25 by janeway       #+#    #+#                 */
-/*   Updated: 2021/07/04 11:41:28 by janeway       ########   odam.nl         */
+/*   Updated: 2021/07/06 12:33:48 by janeway       ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef GET_NEXT_LINE_H
 # define GET_NEXT_LINE_H
 
-# include <stdio.h>
 # include <unistd.h>
 # include <sys/types.h>
 # include <sys/stat.h>

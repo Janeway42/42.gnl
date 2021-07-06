@@ -6,11 +6,12 @@
 /*   By: janeway <janeway@student.codam.nl>           +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2021/01/07 16:44:40 by janeway       #+#    #+#                 */
-/*   Updated: 2021/03/31 17:02:26 by janeway       ########   odam.nl         */
+/*   Updated: 2021/07/06 12:33:33 by janeway       ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "get_next_line.h"
+#include <stdio.h>
 
 int	main(int argc, char **argv)
 {
