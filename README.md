@@ -17,7 +17,8 @@ Run:
 
 [42 The Network](https://www.42network.org/) Assignment:
 -----------
-Programm a function that returns a line read from a file descriptor.
+Programm a function that returns a line read from a file descriptor with the prototype:
+    char *get_next_line(int fd);
 
 - [GNL](https://harm-smits.github.io/42docs/projects/get_next_line)
 - [File descriptors](https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/)
