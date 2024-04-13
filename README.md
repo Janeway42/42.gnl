@@ -29,6 +29,7 @@ Requirements:
 - Function returns the line that was read (including the \n character). NULL if nothing was read.
 - The header file get_next_line.h must contain at least the prototype of the get_next_line() function.
 - Helper functions must be found in get_next_line_utils.c file.
+- Allowed functions: read, malloc, free.
 
 -------------------------------------------------------------------
 
